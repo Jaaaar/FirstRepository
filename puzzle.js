@@ -1,3 +1,4 @@
+<script>
 // Javascript code generated from ast
 var $B = __BRYTHON__,
     _b_ = $B.builtins,
@@ -51,3 +52,4 @@ try{
   $B.leave_frame({locals, value: _b_.None})
   throw err
 }
+<script>
